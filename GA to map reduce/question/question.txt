@@ -1,0 +1,3 @@
+Convert GA to map reduce!!
+If target = 100, you need to produce the expression that gives the 
+output = target. For example, if target=100 the expression can be 5*5*4
