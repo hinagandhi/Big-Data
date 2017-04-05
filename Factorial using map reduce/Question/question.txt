@@ -2,10 +2,3 @@ Part 1 - Hadoop MapReduce
 
 1. Compute the factorial of 1,000,000 using Hadoop MapReduce. The numbers from 1 to 1,000,000 should be present in a file that you read in your code.
 
-2. Compute the value of pi using Hadoop MapReduce, leveraging the Leibniz formula. The numbers from 1 to 1,000,000 should be present in a file that you read in your code.
-
-Part 2 - Hadoop MapReduce
-
-
-Find all IP addresses with more than 100 hits in decreasing order. You may not sort manually nor write a program to sort. You may need to run multiple map or reduce operations! Please refer to the slides to see the expected output format.
-

@@ -1,0 +1,3 @@
+Compute the value of pi using Hadoop MapReduce, leveraging the Leibniz formula. 
+The numbers from 1 to 1,000,000 should be present in a file that you read in your code.
+

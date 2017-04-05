@@ -1,0 +1,5 @@
+Find all IP addresses with more than 100 hits in decreasing order.
+You may not sort manually nor write a program to sort. 
+You may need to run multiple map or reduce operations!
+ 
+
