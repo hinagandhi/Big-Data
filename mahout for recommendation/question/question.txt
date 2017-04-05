@@ -1,0 +1,3 @@
+Mahout - Group Lens - Standalone mode
+You need to use the GroupLens dataset (from blackboard) and just run the mahout jar's algorithm to find recommended items for one or more users. 
+Share your findings in the report. Don't forget to submit the source code and output screenshots separately.
